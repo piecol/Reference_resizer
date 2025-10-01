@@ -12,6 +12,10 @@ It helps enforce readability and board design rules without manually editing eac
 - Works only on external layers (F.SilkS and B.SilkS).
 - Easy to run via **External Plugins** menu or a toolbar icon in KiCad PCB Editor.
 
+
+https://github.com/user-attachments/assets/ac3c7b87-9c3b-4907-8248-4fca15c36ec1
+
+
 ---
 
 ## 📂 Installation
