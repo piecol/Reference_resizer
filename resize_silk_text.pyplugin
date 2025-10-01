@@ -1,0 +1,13 @@
+{
+  "name": "Reference Resizer",
+  "category": "Modify PCB",
+  "description": "Resize all reference designators (and optionally value texts) on F.SilkS and B.SilkS to a consistent size.",
+  "author": "Pierluigi Colangeli",
+  "version": "1.0.0",
+  "icon": "resize_silk_text.png",
+  "engine": "python",
+  "license": "MIT",
+  "resources": {
+    "homepage": "https://github.com/piecol/Reference_resizer"
+  }
+}
