@@ -1,8 +1,8 @@
-# Reference resizer (KiCad 9 Plugin)
+<img width="64" height="64" alt="resize_silk_text" src="https://github.com/user-attachments/assets/056d83e3-8ee5-46fe-9741-2336cf1fbf9b" />
 
+# Reference resizer (KiCad 9 Plugin)
 This KiCad 9 plugin resizes all **reference designators** on the **silkscreen layers (F.SilkS / B.SilkS)** to a consistent size.  
 It helps enforce readability and board design rules without manually editing each footprint.
-<img width="32" height="32" alt="resize_silk_text" src="https://github.com/user-attachments/assets/056d83e3-8ee5-46fe-9741-2336cf1fbf9b" />
 
 ---
 
